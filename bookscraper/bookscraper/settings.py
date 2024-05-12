@@ -16,8 +16,8 @@ FEEDS = {
     'booksdata.json': {'format': 'json'},
 }
 
-SCRAPEOPS_API_KEY = 'e99f8dac-620d-41c4-8909-8638afdcc3aa'
-SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
+SCRAPEOPS_API_KEY = ''
+SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = ''
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50
 
@@ -29,12 +29,12 @@ SCRAPEOPS_NUM_RESULTS = 50
 
 # ]
 
-PROXY_USER = 'brd-customer-hl_8ec8e5c0-zone-residential_proxy2'
-PROXY_PASSWORD = 'n01m1q4m5v6f'
-PROXY_ENDPOINT = 'superproxy.io'
+PROXY_USER = ''
+PROXY_PASSWORD = ''
+PROXY_ENDPOINT = ''
 PROXY_PORT = '22225'
 
-SCRAPEOPS_API_KEY = 'e99f8dac-620d-41c4-8909-8638afdcc3aa'
+SCRAPEOPS_API_KEY = ''
 SCRAPEOPS_PROXY_ENABLED = True
 # SCRAPEOPS_PROXY_SETTINGS = {'country':'uk'}
 # DOWNLOADER_MIDDLEWARES = {
